@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+mediapipe
+librosa
+numpy
+scipy
+matplotlib
+imageio
+imageio-ffmpeg
+ffmpeg-python
